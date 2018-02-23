@@ -1,4 +1,8 @@
 function G = mergedigraphs(G1,G2)
+%function G = mergedigraphs(G1,G2)
+%This function takes two digraphs, G1 and G2, and makes them into one, G.
+%
+%21 February 2018, Richard S.J. Tol
 
 T = [G1.Edges; G2.Edges];
 Tr = T(1,1);
