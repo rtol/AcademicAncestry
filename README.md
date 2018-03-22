@@ -7,3 +7,5 @@ The function addgraph.m is an auxiliary function, used to add the mentor's mento
 
 The function mergedigraphs.m merges two digraphs.
 The script merge.m demonstrates mergedigraphs for me and my bro Rob.
+
+Academicdescendents.m and getactdesc.m scrape academic descendants.
