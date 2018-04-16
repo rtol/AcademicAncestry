@@ -9,3 +9,5 @@ The function mergedigraphs.m merges two digraphs.
 The script merge.m demonstrates mergedigraphs for me and my bro Rob.
 
 Academicdescendents.m and getactdesc.m scrape academic descendants.
+
+NobelID.csv has the names and IDs of the 79 Nobel Laureates in economics.
