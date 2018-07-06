@@ -11,3 +11,6 @@ The script merge.m demonstrates mergedigraphs for me and my bro Rob.
 Academicdescendents.m and getactdesc.m scrape academic descendants.
 
 NobelID.csv has the names and IDs of the 79 Nobel Laureates in economics.
+
+Update: 6 July 2018
+Prettier graphs. Note that the code runs in Matlab 2018a or higher.
